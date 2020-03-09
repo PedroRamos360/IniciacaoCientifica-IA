@@ -1,2 +1,2 @@
 # IniciacaoCientifica-IA
-Inteligência artificial criada para o projeto de iniciação científica do colégio Santo Antônio
+Inteligência artificial criada para o projeto de iniciação científica do colégio Santo Antônio 2020
